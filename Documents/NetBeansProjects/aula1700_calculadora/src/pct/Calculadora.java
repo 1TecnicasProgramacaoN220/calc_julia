@@ -37,9 +37,9 @@ public class Calculadora {
        
         //Saída
         
-        //System.out.printf("\n\t\t\t %d + %d = %d\n", n1,n2,total);
+        System.out.printf("\n\t\t\t %d + %d = %d\n", n1,n2,total);
         
-        System.out.println("\n\t\t\t" + n1 + "+" + n2 + " = " + total + "\n");
+        //System.out.println("\n\t\t\t" + n1 + "+" + n2 + " = " + total + "\n");
     }
     
 }
